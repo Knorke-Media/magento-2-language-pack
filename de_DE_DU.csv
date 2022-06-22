@@ -24,8 +24,8 @@
 """Are you sure?""","""Bist du sicher?""",module,Magento_AdminNotification
 """Remove""","""Entfernen""",module,Magento_AdminNotification
 """Messages Inbox""","""Posteingang""",module,Magento_AdminNotification
-"""You have %1 new system messages""","""Du hast %1 neue System-Nachrichten""",module,Magento_AdminNotification
-"""You have %1 new system message""","""Du hast %1 neue System-Nachricht""",module,Magento_AdminNotification
+"""You have %1 new system messages""","""Du hast %1 neue Systemnachrichten""",module,Magento_AdminNotification
+"""You have %1 new system message""","""Du hast %1 neue Systemnachricht""",module,Magento_AdminNotification
 """Incoming Message""","""Eingehende Nachricht""",module,Magento_AdminNotification
 """close""","""schließen""",module,Magento_AdminNotification
 """Notifications""","""Benachrichtigungen""",module,Magento_AdminNotification
@@ -42,7 +42,7 @@
 """6 Hours""","""6 Stunden""",module,Magento_AdminNotification
 """12 Hours""","""12 Stunden""",module,Magento_AdminNotification
 """24 Hours""","""24 Stunden""",module,Magento_AdminNotification
-"""critical""","""Kritisch""",module,Magento_AdminNotification
+"""critical""","""kritisch""",module,Magento_AdminNotification
 """major""","""sehr wichtig""",module,Magento_AdminNotification
 """minor""","""wichtig""",module,Magento_AdminNotification
 """notice""","""unwichtig""",module,Magento_AdminNotification
@@ -64,7 +64,7 @@
 """System Messages""","""Systemmeldungen""",module,Magento_AdminNotification
 """Show Toolbar""","""Symbolleiste anzeigen""",module,Magento_AdminNotification
 """Show List""","""Liste anzeigen""",module,Magento_AdminNotification
-"""Use HTTPS to Get Feed""","""Bitte verwende HTTPS um den Feed anzuzeigen""",module,Magento_AdminNotification
+"""Use HTTPS to Get Feed""","""Bitte verwende HTTPS um den Feed anzuzeigen.""",module,Magento_AdminNotification
 """Update Frequency""","""Update Frequenz""",module,Magento_AdminNotification
 """Last Update""","""Letzte Aktualisierung""",module,Magento_AdminNotification
 """Severity""","""Schweregrad""",module,Magento_AdminNotification
@@ -126,7 +126,7 @@
 """You removed the item.""","""Du hast den Artikel entfernt.""",module,Magento_AdvancedCheckout
 """You added %1 to your shopping cart.""","""Du hast %1 in deinen Warenkorb gelegt.""",module,Magento_AdvancedCheckout
 """You cannot add a product.""","""Du kannst kein Produkt hinzufügen.""",module,Magento_AdvancedCheckout
-"""Order by SKU""","""Bestellung anhand Artikelnummer""",module,Magento_AdvancedCheckout
+"""Order by SKU""","""Bestellung anhand der Artikelnummer""",module,Magento_AdvancedCheckout
 """The SKU was not found in the catalog.""","""Die Artikelnummer wurde nicht im Katalog gefunden.""",module,Magento_AdvancedCheckout
 """Availability: Out of stock.""","""Verfügbarkeit: Nicht auf Lager.""",module,Magento_AdvancedCheckout
 """We don't have as many of these as you want.""","""Es gibt nicht mehr so viele Artikel, wie du willst.""",module,Magento_AdvancedCheckout
@@ -201,7 +201,7 @@
 """Apply Coupon""","""Gutschein einlösen""",module,Magento_AdvancedCheckout
 """Order by SKU Description""","""Nach Artikelnummer-Beschreibung sortieren""",module,Magento_AdvancedCheckout
 """Display a Link to Loading a Spreadsheet""","""Einen Link zum Laden der Tabelle anzeigen""",module,Magento_AdvancedCheckout
-"""Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget""","""Legt fest, ob ein Link zur Seite Mein Konto &gt; Bestellung nach SKU im Widget angezeigt wird""",module,Magento_AdvancedCheckout
+"""Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget""","""Legt fest, ob ein Link zur Seite Mein Konto &gt; Bestellung nach SKU im Widget angezeigt wird.""",module,Magento_AdvancedCheckout
 """Link Text""","""Link Text""",module,Magento_AdvancedCheckout
 """The text of the link to the My Account &gt; Order by SKU page""","""Der Text des Links zu mein Konto &gt; Bestellung mit Artikelnummer""",module,Magento_AdvancedCheckout
 """Load a list of SKUs""","""Lade eine Liste von Artikelnummern""",module,Magento_AdvancedCheckout
@@ -245,7 +245,7 @@
 """Subscription status""","""Abonnementstatus""",module,Magento_Analytics
 """Sorry, there has been an error processing your request. Please try again later.""","""Es tut uns leid, bei der Bearbeitung deiner Anfrage ist ein Fehler aufgetreten. Bitte versuche es später erneut.""",module,Magento_Analytics
 """The time value is using an unsupported format. Enter a supported format and try again.""","""Der Zeitwert verwendet ein nicht unterstütztes Format. Gib ein unterstütztes Format ein und versuche es erneut.""",module,Magento_Analytics
-"""Cron settings can't be saved""","""Cron-Einstellungen konnten nicht gespeichert werden""",module,Magento_Analytics
+"""Cron settings can't be saved""","""Cron-Einstellungen konnten nicht gespeichert werden.""",module,Magento_Analytics
 """There was an error save new configuration value.""","""Beim Speichern der Konfigurationswerte ist ein Fehler aufgetreten.""",module,Magento_Analytics
 """Please select an industry.""","""Bitte wähle eine Branche aus.""",module,Magento_Analytics
 """--Please Select--""","""-- Bitte wählen --""",module,Magento_Analytics
@@ -960,7 +960,7 @@
 """Community Edition""","""Community-Edition""",module,Magento_Backend
 """Default Theme""","""Standard Theme""",module,Magento_Backend
 """If no value is specified, the system default is used. The system default may be modified by third-party extensions.""","""Wenn kein Wert bestimmt ist, werden System-Standardvorgaben verwendet. Die System-Standardvorgabe kann durch Drittanbieter-Erweiterungen angepasst/modifiziert sein.""",module,Magento_Backend
-"""Applied Theme""","""Angewendetes Theme""",module,Magento_Backend
+"""Applied Theme""","""Angewandtes Theme""",module,Magento_Backend
 """Design Rule""","""Designregel""",module,Magento_Backend
 """Pagination""","""Paginierung""",module,Magento_Backend
 """How many links to display at once.""","""Wie viele Links auf einmal angezeigt werden sollen.""",module,Magento_Backend
@@ -1013,7 +1013,7 @@
 """The backup file handler was unspecified.""","""Der Sicherungsdatei-Handler wurde nicht spezifiziert.""",module,Magento_Backup
 """Something went wrong while writing to the backup file ""%1"".""","""Etwas ging schief beim Beschreiben der Sicherungsdatei ""%1"".""",module,Magento_Backup
 """We can't save the Cron expression.""","""Der Cron-Ausgabe kann nicht gespeichert werden.""",module,Magento_Backup
-"""Backup functionality is disabled""","""Die Sicherungsfunktion ist deaktiviert""",module,Magento_Backup
+"""Backup functionality is disabled""","""Die Sicherungsfunktion ist deaktiviert.""",module,Magento_Backup
 """You will lose any data created since the backup was made, including admin users, customers and orders.""","""Du wirst alle Daten verlieren, die seit der letzten Sicherung erzeugt wurden. Dies schließt Admin-Benutzer, Kunden und Bestellungen ein.""",module,Magento_Backup
 """Are you sure you want to continue?""","""Bist du sicher, dass du fortfahren möchtest?""",module,Magento_Backup
 """This may take a few moments.""","""Die kann einige Augenblicke dauern.""",module,Magento_Backup
@@ -1065,7 +1065,7 @@
 """Content""","""Inhalt""",module,Magento_Banner
 """Default Content""","""Standard-Inhalt""",module,Magento_Banner
 """No Default Content""","""Kein Standard-Inhalt""",module,Magento_Banner
-"""Dynamic Block Default Content for All Store Views""","""Dynamischer Block-Standardinhalt für alle Storviews""",module,Magento_Banner
+"""Dynamic Block Default Content for All Store Views""","""Dynamischer Block-Standardinhalt für alle Storeviews""",module,Magento_Banner
 """Store View Specific Content""","""Storeview spezifischer Inhalt""",module,Magento_Banner
 """Use Default""","""Standard verwenden""",module,Magento_Banner
 """Related Promotions""","""Ähnliche Aktionen""",module,Magento_Banner
@@ -1097,7 +1097,7 @@
 """Edit Dynamic Block""","""Dynamischen Block bearbeiten""",module,Magento_Banner
 """Please select a dynamic block(s).""","""Bitte wähle einen dynamischen Block.""",module,Magento_Banner
 """You deleted %1 record(s).""","""Du hast%1 Eintragung(en) gelöscht.""",module,Magento_Banner
-"""Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.""","""Etwas ist falsch gelaufen während mehrere dynamische Abschnitte gelöscht wurden. Überprüfe diesen Vorgangs-Bericht und versuche es nochmal.""",module,Magento_Banner
+"""Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.""","""Etwas ist falsch gelaufen, während mehrere dynamische Abschnitte gelöscht wurden. Überprüfe diesen Vorgangs-Bericht und versuche es nochmal.""",module,Magento_Banner
 """This dynamic block does not exist.""","""Dieser dynamische Block existiert nicht.""",module,Magento_Banner
 """You saved the dynamic block.""","""Du hast den dynamischen Block gespeichert.""",module,Magento_Banner
 """We cannot save the dynamic block.""","""Wir können den dynamischen Block nicht speichern.""",module,Magento_Banner
@@ -1208,7 +1208,7 @@
 """Too many concurrent attempts to refund this transaction. Try again later.""","""Zu viele gleichzeitige Versuche, diese Transaktion zurückzuerstatten. Versuche es später erneut.""",module,Magento_Braintree
 """Too many concurrent attempts to void this transaction. Try again later.""","""Zu viele gleichzeitige Versuche, diese Transaktion zu stonieren. Versuche es später erneut.""",module,Magento_Braintree
 """Braintree""","""Braintree""",module,Magento_Braintree
-"""Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.""","""Akzeptiere Kreditkarten und PayPal in deinem Magento-Shop!<br />Keine Einrichtungsgebühren oder laufende Kosten und deine Kunden müssen deinen Shop nie verlassen, um einen Kauf abzuschließen.""",module,Magento_Braintree
+"""Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.""","""Akzeptiere Kreditkarten und PayPal in deinem Magento-Shop!<br />Keine Einrichtungsgebühren oder laufende Kosten und deine Kundschaft muss deinen Shop nie verlassen, um einen Kauf abzuschließen.""",module,Magento_Braintree
 """Enable this Solution""","""Diese Lösung aktivieren""",module,Magento_Braintree
 """Enable PayPal through Braintree""","""PayPal über Braintree aktivieren""",module,Magento_Braintree
 """Vault Enabled""","""Tresor aktiviert""",module,Magento_Braintree
@@ -1281,7 +1281,7 @@
 """Country name is not an accepted country.""","""Ländername ist keins der akzeptierten Länder.""",module,Magento_Braintree
 """Country code is not accepted. Please contact the store administrator.""","""Ländercode wurde nicht akzeptiert. Bitte kontaktiere den Administrator.""",module,Magento_Braintree
 """Provided country information is inconsistent.""","""Angegebene Länderinformation ist inkonsistent.""",module,Magento_Braintree
-"""Customer has already reached the maximum of 50 addresses.""","""Der Kunde hat bereits das Maximum von 50 Adressen erreicht.""",module,Magento_Braintree
+"""Customer has already reached the maximum of 50 addresses.""","""Das Benutzerkonto hat bereits das Maximum von 50 Adressen erreicht.""",module,Magento_Braintree
 """Address is invalid. Please contact the store administrator.""","""Adresse ist ungültig. Bitte kontaktiere den Shopadministrator.""",module,Magento_Braintree
 """Error communicating with PayPal.""","""Fehler bei der Kommunikation mit PayPal.""",module,Magento_Braintree
 """PayPal authentication expired.""","""PayPal Authentifizierung ist abgelaufen.""",module,Magento_Braintree
@@ -2937,9 +2937,9 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_CatalogWidget
 <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
 """,""",module,Magento_CatalogWidget
-Time in seconds between the widget updates.,module,Magento_CatalogWidget
-<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_CatalogWidget
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
+Zeit in Sekunden zwischen den Aktualisierungen des Widgets.,module,Magento_CatalogWidget
+<br/>Wenn nicht eingestellt, entspricht dies 86400 Sekunden (24 Stunden). Um das Widget sofort zu aktualisieren, gehe zur Cache-Verwaltung und lösche den Cache von Blocks HTML Output.,module,Magento_CatalogWidget
+<br/>Das Widget zeigt keine Produkte an, die mit den angegebenen Bedingungen übereinstimmen, bis der Cache aktualisiert wird.,module,Magento_CatalogWidget
 """,module,Magento_CatalogWidget
 """Conditions""","""Bedingungen""",module,Magento_CatalogWidget
 """Shopping Cart""","""Warenkorb""",module,Magento_Checkout
